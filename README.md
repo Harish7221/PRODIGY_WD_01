@@ -21,7 +21,7 @@ Features Implemented
 ✔ Fully responsive layout  
 
 Live Demo  
-(Will be added after deployment)
+https://responsive1419.netlify.app/
 
 Author  
 Harish D
